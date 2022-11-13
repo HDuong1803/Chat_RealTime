@@ -1,0 +1,12 @@
+/home/haiduong/Documents/Project/rust/chat-app/target/debug/deps/digest-05fe0c8ff25651e2.rmeta: /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/lib.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/ct_variable.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/rt_variable.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/wrapper.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/xof_reader.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/digest.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/mac.rs
+
+/home/haiduong/Documents/Project/rust/chat-app/target/debug/deps/digest-05fe0c8ff25651e2.d: /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/lib.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/ct_variable.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/rt_variable.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/wrapper.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/xof_reader.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/digest.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/mac.rs
+
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/lib.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/ct_variable.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/rt_variable.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/wrapper.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/core_api/xof_reader.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/digest.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.5/src/mac.rs:

@@ -1,0 +1,13 @@
+/home/haiduong/Documents/Project/rust/chat-app/target/debug/deps/sha2-66fb24e98dec08df.rmeta: /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/lib.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/core_api.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/consts.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256/soft.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256/x86.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512/soft.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512/x86.rs
+
+/home/haiduong/Documents/Project/rust/chat-app/target/debug/deps/sha2-66fb24e98dec08df.d: /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/lib.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/core_api.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/consts.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256/soft.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256/x86.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512/soft.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512/x86.rs
+
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/lib.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/core_api.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/consts.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256/soft.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha256/x86.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512/soft.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.10.6/src/sha512/x86.rs:

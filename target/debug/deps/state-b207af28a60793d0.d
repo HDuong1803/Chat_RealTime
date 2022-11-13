@@ -1,0 +1,12 @@
+/home/haiduong/Documents/Project/rust/chat-app/target/debug/deps/state-b207af28a60793d0.rmeta: /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/home/haiduong/Documents/Project/rust/chat-app/target/debug/deps/libstate-b207af28a60793d0.rlib: /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/home/haiduong/Documents/Project/rust/chat-app/target/debug/deps/state-b207af28a60793d0.d: /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs
+
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/lib.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/ident_hash.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/storage.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/init.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/shim.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.3/src/container.rs:

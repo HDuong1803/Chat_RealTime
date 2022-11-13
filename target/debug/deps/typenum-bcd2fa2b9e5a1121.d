@@ -1,0 +1,18 @@
+/home/haiduong/Documents/Project/rust/chat-app/target/debug/deps/typenum-bcd2fa2b9e5a1121.rmeta: /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /home/haiduong/Documents/Project/rust/chat-app/target/debug/build/typenum-b72fcb131ce6ea8f/out/op.rs /home/haiduong/Documents/Project/rust/chat-app/target/debug/build/typenum-b72fcb131ce6ea8f/out/consts.rs
+
+/home/haiduong/Documents/Project/rust/chat-app/target/debug/deps/typenum-bcd2fa2b9e5a1121.d: /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs /home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs /home/haiduong/Documents/Project/rust/chat-app/target/debug/build/typenum-b72fcb131ce6ea8f/out/op.rs /home/haiduong/Documents/Project/rust/chat-app/target/debug/build/typenum-b72fcb131ce6ea8f/out/consts.rs
+
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/lib.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/bit.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/int.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/marker_traits.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/operator_aliases.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/private.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/type_operators.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/uint.rs:
+/home/haiduong/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.15.0/src/array.rs:
+/home/haiduong/Documents/Project/rust/chat-app/target/debug/build/typenum-b72fcb131ce6ea8f/out/op.rs:
+/home/haiduong/Documents/Project/rust/chat-app/target/debug/build/typenum-b72fcb131ce6ea8f/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/home/haiduong/Documents/Project/rust/chat-app/target/debug/build/typenum-b72fcb131ce6ea8f/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/home/haiduong/Documents/Project/rust/chat-app/target/debug/build/typenum-b72fcb131ce6ea8f/out/op.rs
